@@ -1,0 +1,5 @@
+rd_enabled = true
+fleet_id = "eeb846de-ed08-4195-b1f8-b5f0b26e7ac5"
+
+[build]
+sccache = "/Users/wei/.cargo/bin/sccache"
